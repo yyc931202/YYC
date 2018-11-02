@@ -1,0 +1,3 @@
+mdkir %GOPATH%\src\github.com[yyc931202]\hello
+cd mdkir %GOPATH%\src\github.com[yyc931202]\hello
+
